@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<os id="FreeBSD" version="5.15" xmlns="http://www.arm.com/os_extension">
+  <name>FreeBSD.title</name>
+  <description>FreeBSD.desc</description>
+  <provider>provider.py</provider>
+</os>
